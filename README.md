@@ -1,4 +1,3 @@
-# Ansible role for the OpenCraft Accounting Application
+This repository is obsolete.  The contents has been merged into the [ansible-playbooks][1] repo.
 
-This role installs and configures the OpenCraft Accounting application.  Usage instructions are available
-in https://github.com/open-craft/accounting/tree/master/README.md.
+[1]: https://github.com/open-craft/ansible-playbooks
